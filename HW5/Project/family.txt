@@ -1,0 +1,11 @@
+William I
+Robert,William I,ebu-Robert
+William,Robert,ibn-William I
+William II,William I,ebu-Robert
+Adela,William I,ebu-William II
+Henry I,William I,ebu-Adela
+Stephen,Adela,ibn-William I
+William,Henry I,ibn-William I
+Matilda,Henry I,ebu-William
+Henry II,Matilda,ebu-Henry II
+Henry,Henry II,ibn-Matilda
